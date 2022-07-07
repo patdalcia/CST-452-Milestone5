@@ -1,0 +1,11 @@
+- Updated Portfolio Website stylings
+	-Added dynamic animated hamburger nav menu to landing page of website
+	-Added animated color borders to hamburger nav menu list buttons
+	-Updated font sizes throughout website
+	-Removed background image from landing page
+	-Added logo image above landing page header text
+	-Added media queries based on screen-height && screen-width
+		-Font sizes dynamically change depending on screen size and width
+		-Page elements are dynamically repositioned based on screen size and width
+	-Added 'Font Awesome' Icons to website
+	-Updated embdedded project demo video stylings

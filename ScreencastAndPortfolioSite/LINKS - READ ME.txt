@@ -1,0 +1,18 @@
+/*
+ * Link to Screen Cast Recording demo of the application. 
+ */
+
+-----> https://www.loom.com/share/10663035ab694d05a2d17398c4fdf0f5
+
+/*
+ * Link to Project GitHub Repository
+ */
+
+-----> https://github.com/patdalcia/SeniorProject.git 
+
+
+/* Link to Project Portfolio Site. This Site is hosted through GitHub Pages, and provides more 
+ * Details about the project. Links to Project Documentation and project files (through GitHub  *  * repo) are included, and a screencast recording of the application is embedded in the  	  * website 
+ */
+
+-----> https://patdalcia.github.io/GCU-PortfolioSite/
