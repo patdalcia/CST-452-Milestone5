@@ -1,5 +1,0 @@
--Organized App Updates 
-	-Added Note Functionality
-		-Application now has the ability to create directories in the local special folders of windows computers
-		-Application automatically adds directories in a tree structure for Courses and their Assignments
-		-Button was added to MainWindow navbar to Check Course Notes

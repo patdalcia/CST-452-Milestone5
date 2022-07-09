@@ -1,0 +1,26 @@
+-Organized App Updates 
+	-Added Note Functionality
+		-Application now has the ability to create directories in the local special folders of windows computers
+		-Application automatically adds directories in a tree structure for Courses and their Assignments
+		-Button was added to MainWindow navbar to Check Course Notes
+		-App Can now add directorys for Courses, and sub-directories for their associated assignments
+			-App can now add sub-directories within assignment sub-directories to hold assignment files and notes
+
+-Documentation Updates
+	-ScreencastAndPortfolioSite > Links
+		-A link was added to the 'LinksREADME.txt' file that will allow the user to view a screencast recording for Milestone 6
+	-Documents > UpdatedFinalRequirementsDocument.docx
+		-A new Project Requirement was added to the document 
+	-Documents > CST-451-ProjectProposal-Finished.docx
+		-A new entry was added to the 'Challenges' section. 
+	-Documents > CST-452-Test-Cases
+		-A new Test Case was Added
+	-Documents > CST-452-Traceability-Matrix
+		-A new entry was added
+
+-Portfolio Site Updates
+	-Resources Section
+		-Added link to milestone 6 Screen recording
+
+- Screen-Cast recordings
+	-A new screencast recording was created for Milestone 6
