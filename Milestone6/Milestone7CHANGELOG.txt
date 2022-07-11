@@ -1,7 +1,0 @@
--Organized App Updates
-    -Added SplashScreen to Application
-        -PNG Splash Screen Image was created in the DRAWIO app and PHOTOSHOP
-            -Application logo was created in PHOTOSHOP
-            -PNG image was added to the 'Images' project directory
-            -PNG Image Build Action was set to 'Resource'
-        

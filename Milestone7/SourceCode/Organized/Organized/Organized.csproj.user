@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="addAssignment.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="addCourse.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="assignmentDetailsPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="courseView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="updateAssignment.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="updateCourse.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="addAssignment.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="addCourse.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="assignmentDetailsPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="courseView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="updateAssignment.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="updateCourse.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,29 @@
+-Organized App Updates
+    -Added SplashScreen to Application
+        -PNG Splash Screen Image was created in the DRAWIO app and PHOTOSHOP
+            -Application logo was created in PHOTOSHOP
+            -PNG image was added to the 'Images' project directory
+            -PNG Image Build Action was set to 'Resource'
+	-Code Cleaning
+		-Unused methods and commented code was removed
+		-Unused Classes and views were removed
+			-CourseView.xaml/CourseView.xaml.cs DELETED
+			-AssignmentView.xaml/AssignmentView.xaml.cs DELETED
+			-CourseViewController.cs DELETED
+			-AssignmentViewController.cs DELETED
+	-Code Commenting
+		-Comments were added at the Class and Method levels
+    -Styling Updates    
+        -Changed some app stylings
+-Documentation Updates  
+    -ScreencastAndPortfolioSite
+        -Added link to Milestone 7 Screencast Documentation
+
+-Organized Portfolio Site Updates
+    -Added Link to new ScreenCast demo in 'Resources' section
+
+-Powerpoint Presentation
+    -Added Link to Powerpoint presentation of the application
+
+         
+        
